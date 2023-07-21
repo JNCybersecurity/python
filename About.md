@@ -1,1 +1,1 @@
-Hello, this is my first ever Python project. I am learning Python to further advance my knowledge in Cybersecurity. Python will help me automate a number of security tasks and tools.
+Hello, I am learning Python to further advance my knowledge in Cybersecurity. Python will help me automate a number of security tasks and tools. During my learning journey, I will be posting most of my progress here.
